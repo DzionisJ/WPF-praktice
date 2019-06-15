@@ -1,0 +1,15 @@
+D:\Git Repositories\WPF-praktika\WPF praktika\WPF praktika\obj\Debug\App.g.cs
+D:\Git Repositories\WPF-praktika\WPF praktika\WPF praktika\obj\Debug\WPF praktika_MarkupCompile.cache
+D:\Git Repositories\WPF-praktika\WPF praktika\WPF praktika\bin\Debug\WPF praktika.exe.config
+D:\Git Repositories\WPF-praktika\WPF praktika\WPF praktika\bin\Debug\WPF praktika.exe
+D:\Git Repositories\WPF-praktika\WPF praktika\WPF praktika\bin\Debug\WPF praktika.pdb
+D:\Git Repositories\WPF-praktika\WPF praktika\WPF praktika\obj\Debug\MainWindow.g.cs
+D:\Git Repositories\WPF-praktika\WPF praktika\WPF praktika\obj\Debug\WPF praktika_MarkupCompile.lref
+D:\Git Repositories\WPF-praktika\WPF praktika\WPF praktika\obj\Debug\MainWindow.baml
+D:\Git Repositories\WPF-praktika\WPF praktika\WPF praktika\obj\Debug\WPF praktika.g.resources
+D:\Git Repositories\WPF-praktika\WPF praktika\WPF praktika\obj\Debug\WPF_praktika.Properties.Resources.resources
+D:\Git Repositories\WPF-praktika\WPF praktika\WPF praktika\obj\Debug\WPF praktika.csproj.GenerateResource.cache
+D:\Git Repositories\WPF-praktika\WPF praktika\WPF praktika\obj\Debug\WPF praktika.csproj.CoreCompileInputs.cache
+D:\Git Repositories\WPF-praktika\WPF praktika\WPF praktika\obj\Debug\WPF praktika.exe
+D:\Git Repositories\WPF-praktika\WPF praktika\WPF praktika\obj\Debug\WPF praktika.pdb
+D:\Git Repositories\WPF-praktika\WPF praktika\WPF praktika\obj\Debug\WPF praktika.csprojAssemblyReference.cache
